@@ -1,0 +1,20 @@
+{
+  "name": "web-redis",
+  "version": "0.0.0",
+  "description": "Redis serialization protocol client for use in Browser over websockets",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomlarkworthy/web-redis.git"
+  },
+  "keywords": [
+    "redis"
+  ],
+  "author": "Tom Larkworthy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://observablehq.com/@tomlarkworthy/redis"
+  },
+  "homepage": "https://observablehq.com/@tomlarkworthy/redis"
+}
