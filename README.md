@@ -5,6 +5,7 @@ Client for the Redis protocol that communicates over websockets. To use, you mus
 
 ## Example usage
 ```js
+import {createClient} from 'https://unpkg.com/web-redis';
 const client = await createClient({
   socket: {
     host: "localhost",
