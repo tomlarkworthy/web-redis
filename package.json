@@ -1,6 +1,6 @@
 {
   "name": "web-redis",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Redis serialization protocol client for use in Browser over websockets",
   "main": "index.js",
   "type": "module",
